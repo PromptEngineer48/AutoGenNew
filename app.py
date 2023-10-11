@@ -3,7 +3,7 @@ from autogen import AssistantAgent, UserProxyAgent
 config_list = [
     {
         'model': 'gpt-4-0613',
-        'api_key': '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'
+        'api_key': 'YOUR OPENAI API KEY'
     }
 ]
 
